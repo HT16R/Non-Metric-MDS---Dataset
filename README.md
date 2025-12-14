@@ -7,4 +7,4 @@ PROVENANCE.md,
 MDS_Magazine_ Perceptual_Ratings.xlsx,
 MDS_Magazine_Perceptual_Ratings_Clean.xlsx,
 
-Data set available for dowlonad via Non-Metric MDS (zipped folder).
+Data set available for download via Non-Metric MDS (zipped folder).
